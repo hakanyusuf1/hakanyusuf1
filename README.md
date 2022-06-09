@@ -9,7 +9,7 @@
 
 - JavaScript, SQL, HTML5, CSS3, Git, GitHub
 - :speech_balloon: Ask me about anything that you want to learn
-- You can reach me via Linkedin: <a href="https://www.linkedin.com/in/dev-alperaslan/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+- You can reach me via Linkedin: <a href="https://www.linkedin.com/in/hakan-yusuf-beyli-358038230/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 ## :rocket: Skills
 
